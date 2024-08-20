@@ -1,0 +1,28 @@
+# Dossiers générés par PyInstaller
+/dist
+/build
+/unzipper.spec
+
+# Environnements virtuels Python
+venv/
+.env/
+
+# Fichiers de configuration de l'environnement virtuel
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Fichiers temporaires et journaux
+*.log
+*.tmp
+
+# IDE et éditeurs de code
+.vscode/
+.idea/
+
+# Autres
+*.swp
+*.swo
+*.DS_Store
+*.pytest_cache/
